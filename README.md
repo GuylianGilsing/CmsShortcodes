@@ -2,7 +2,7 @@
 A (custom written) class based implementation of Wordpress shortcodes.
 
 # Usage
-The main components of the implementation can be found within the *src* folder. This folder *should* contains the following files:
+The main components of the implementation can be found within the *src* folder. This folder *should* contain the following files:
 
 - dispatcher.php
 - shortcode.php
